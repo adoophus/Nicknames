@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <b>~ Nicknames ~</b><br>
   <b>Created for the Oceanic Bannelord Community</b>
 <br>
 https://discord.gg/SKFTPet994
