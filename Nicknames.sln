@@ -9,6 +9,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Nicknames.Shared", "Nicknam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nicknames.ClientTest", "Nicknames.ClientTest\Nicknames.ClientTest.csproj", "{224EF17C-1C17-42C7-AB6C-9F76BD3A4869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicknames.Module", "Nicknames.Module\Nicknames.Module.csproj", "{87434D24-6806-4C58-8808-ACA90C1F020A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{224EF17C-1C17-42C7-AB6C-9F76BD3A4869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224EF17C-1C17-42C7-AB6C-9F76BD3A4869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224EF17C-1C17-42C7-AB6C-9F76BD3A4869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87434D24-6806-4C58-8808-ACA90C1F020A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87434D24-6806-4C58-8808-ACA90C1F020A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87434D24-6806-4C58-8808-ACA90C1F020A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87434D24-6806-4C58-8808-ACA90C1F020A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +40,6 @@ Global
 		Nicknames.Shared\NicknamesShared.projitems*{224ef17c-1c17-42c7-ab6c-9f76bd3a4869}*SharedItemsImports = 5
 		Nicknames.Shared\NicknamesShared.projitems*{5cb96fa7-554e-4691-931b-ee484f8f5849}*SharedItemsImports = 13
 		Nicknames.Shared\NicknamesShared.projitems*{7ed14fbe-9998-4a7a-b89f-36365702ae32}*SharedItemsImports = 5
+		Nicknames.Shared\NicknamesShared.projitems*{87434d24-6806-4c58-8808-aca90c1f020a}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal
